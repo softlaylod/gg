@@ -21,6 +21,12 @@ h1 {
     margin-top: 40px;
 }
 
+h2{
+    padding: 10px;
+    font-size: 4em;
+    color: transparent;
+}
+
 .days,
 .hours,
 .minutes,
